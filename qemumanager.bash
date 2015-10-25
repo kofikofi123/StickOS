@@ -1,0 +1,1 @@
+mv image/offical.iso C:/Program Files (x86)/QemuManager/media
