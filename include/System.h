@@ -2,7 +2,7 @@
 #define _SYSTEM_H 
 
 #define OS_NAME "MyStickOS"
-#define OS_VERSION 0.12
+#define OS_VERSION 0.12 ///"0.1.2"
 
 
 #include <stdint.h>
